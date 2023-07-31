@@ -5,8 +5,8 @@
   "author": "inspired.author",
   "cover": "https://i.hizliresim.com/gdq015u.png",
   "chapters": {
-    "0": {
-      "title": "Bölüm 0",
+    "Bölüm 0": {
+      "title": "Ön Gösterim",
       "volume": "",
       "last_updated": "",
       "groups": {
@@ -15,8 +15,8 @@
         ]
       }
     },
-    "1": {
-      "title": "Bölüm 1",
+    "Bölüm 1": {
+      "title": "Dört Atlı",
       "volume": "",
       "last_updated": "",
       "groups": {
@@ -29,8 +29,8 @@
         ]
       }
     },
-    "2": {
-      "title": "Bölüm 2",
+    "Bölüm 2": {
+      "title": "Koruyucu",
       "volume": "",
       "last_updated": "",
       "groups": {
@@ -48,8 +48,8 @@
         ]
       }
     },
-    "3": {
-      "title": "Bölüm 3",
+    "Bölüm 3": {
+      "title": "fedakârlık",
       "volume": "",
       "last_updated": "",
       "groups": {
@@ -64,8 +64,8 @@
         ]
       }
     },
-    "4.1": {
-      "title": "Bölüm 4.1",
+    "Bölüm 4.1": {
+      "title": "Joker ve Kral Bölüm 1",
       "volume": "",
       "last_updated": "",
       "groups": {
@@ -78,8 +78,8 @@
         ]
       }
     },
-    "4.2": {
-      "title": "Bölüm 4.2 (Bonus Bölüm)",
+    "Bölüm 4.2": {
+      "title": "Bonus Bölüm",
       "volume": "",
       "last_updated": "",
       "groups": {
@@ -88,8 +88,8 @@
         ]
       }
     },
-    "4.3": {
-      "title": "Bölüm 4.3",
+    "Bölüm 4.3": {
+      "title": "Joker ve Kral Bölüm 2 (SON)",
       "volume": "",
       "last_updated": "",
       "groups": {
